@@ -3,4 +3,4 @@ I initially developed individual participation pages for the households in my st
 
 Over the time, this developed into more of a researcher tool than for participants. The dashboard helped me to keep track of the progress of six households over the course of six months. You might find this useful for your own work.
 
-![](dashboard.png?v=4&s=200)
+![](https://raw.githubusercontent.com/markraemer/FoSH-study-dashboard/master/dashboard.png)
