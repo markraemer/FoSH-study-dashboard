@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Password Protected Area"
+AuthUserFile /web/users/ucalegon.it.ox.ac.uk/a/c/lina3008/cgi/myusers.passwd
+Require user admin
