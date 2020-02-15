@@ -3,6 +3,4 @@ I initially developed individual participation pages for the households in my st
 
 Over the time, this developed into more of a researcher tool than for participants. The dashboard helped me to keep track of the progress of six households over the course of six months. You might find this useful for your own work.
 
-<img src="https://raw.githubusercontent.com/markraemer/FoSH-study-dashboard/master/dashboard.png" height="400px">
-<img src="https://raw.githubusercontent.com/markraemer/FoSH-study-dashboard/master/notes.png" width="200px">
-<img src="https://raw.githubusercontent.com/markraemer/FoSH-study-dashboard/master/progression.png" width="200px">
+<img src="https://raw.githubusercontent.com/markraemer/FoSH-study-dashboard/master/dashboard.png" height="400px"><img src="https://raw.githubusercontent.com/markraemer/FoSH-study-dashboard/master/notes.png" width="200px"><img src="https://raw.githubusercontent.com/markraemer/FoSH-study-dashboard/master/progression.png" width="200px">
